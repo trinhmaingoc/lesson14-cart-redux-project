@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/lesson14-cart-redux-project/static/js/main.32b42f21.chunk.js",
-    "main.js.map": "/lesson14-cart-redux-project/static/js/main.32b42f21.chunk.js.map",
+    "main.js": "/lesson14-cart-redux-project/static/js/main.5d82df55.chunk.js",
+    "main.js.map": "/lesson14-cart-redux-project/static/js/main.5d82df55.chunk.js.map",
     "runtime-main.js": "/lesson14-cart-redux-project/static/js/runtime-main.a45876d3.js",
     "runtime-main.js.map": "/lesson14-cart-redux-project/static/js/runtime-main.a45876d3.js.map",
-    "static/js/2.f85fdfd1.chunk.js": "/lesson14-cart-redux-project/static/js/2.f85fdfd1.chunk.js",
-    "static/js/2.f85fdfd1.chunk.js.map": "/lesson14-cart-redux-project/static/js/2.f85fdfd1.chunk.js.map",
+    "static/js/2.4e45e7b1.chunk.js": "/lesson14-cart-redux-project/static/js/2.4e45e7b1.chunk.js",
+    "static/js/2.4e45e7b1.chunk.js.map": "/lesson14-cart-redux-project/static/js/2.4e45e7b1.chunk.js.map",
     "index.html": "/lesson14-cart-redux-project/index.html",
-    "precache-manifest.88ae6eef61f8226968661d4eaefe23fc.js": "/lesson14-cart-redux-project/precache-manifest.88ae6eef61f8226968661d4eaefe23fc.js",
+    "precache-manifest.b50d9b711a8450443ace548e1f730839.js": "/lesson14-cart-redux-project/precache-manifest.b50d9b711a8450443ace548e1f730839.js",
     "service-worker.js": "/lesson14-cart-redux-project/service-worker.js",
-    "static/js/2.f85fdfd1.chunk.js.LICENSE.txt": "/lesson14-cart-redux-project/static/js/2.f85fdfd1.chunk.js.LICENSE.txt"
+    "static/js/2.4e45e7b1.chunk.js.LICENSE.txt": "/lesson14-cart-redux-project/static/js/2.4e45e7b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a45876d3.js",
-    "static/js/2.f85fdfd1.chunk.js",
-    "static/js/main.32b42f21.chunk.js"
+    "static/js/2.4e45e7b1.chunk.js",
+    "static/js/main.5d82df55.chunk.js"
   ]
 }
